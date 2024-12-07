@@ -13,7 +13,7 @@ public class HelloWorldTest
     /**
      * Create the test case
      *
-     * @param testName name of the test case
+     * @param testName name of the test cases
      */
     public HelloWorldTest( String testName )
     {
