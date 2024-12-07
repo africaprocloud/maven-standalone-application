@@ -8,11 +8,11 @@
 	<packaging>jar</packaging>
 
 	<name>maven-stanalone-application</name>
-	<url>http://mylandmarktech.com</url>
+	<url>http://afracaprocloudinstitute.com</url>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mylandmarktech.com/</url>
+		<name>Africa Procloud Technologies</name>
+		<url>http://africaprocloudinstitute.com/</url>
 	</organization>
 	
 	<description>Maven Standalone Application</description>
@@ -39,15 +39,15 @@
 		For Commiting mvn -Dmessage="Updated using maven" scm:checkin For updating 
 		mvn scm:update -->
 	<scm>
-		<connection>scm:git:https://github.com/LandmarkTechnology/maven-standalone-application</connection>
-		<developerConnection>scm:git:https://github.com/LandmarkTechnology/maven-standalone-application</developerConnection>
+		<connection>scm:git:https://github.com/AfricaProcloudTechnology/maven-standalone-application</connection>
+		<developerConnection>scm:git:https://github.com/AfricaProcloudTechnology/maven-standalone-application</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/LandmarkTechnology/maven-standalone-application</url>
+		<url>https://github.com/africaprocloud/maven-standalone-application</url>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/LandmarkTechnology/maven-standalone-application/issues</url>
+		<url>https://github.com/africaprocloud/maven-standalone-application/issues</url>
 	</issueManagement>
 
 	
